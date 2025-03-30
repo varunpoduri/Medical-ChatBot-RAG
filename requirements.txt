@@ -1,0 +1,48 @@
+# AI & NLP Libraries
+langchain
+langchain_core
+langchain_huggingface
+langchain_community
+langchain_groq
+langgraph
+transformers
+sentence-transformers
+openai
+spacy
+nltk
+
+# Machine Learning & Data Processing
+torch
+torchvision
+torchaudio
+chromadb
+faiss-cpu  # Use faiss-gpu if running on GPU
+scikit-learn
+pandas
+#numpy
+matplotlib
+seaborn
+scipy
+
+# Backend & API
+fastapi
+uvicorn
+aiohttp
+streamlit
+python-dotenv
+
+# Utilities
+Pillow
+pydantic
+requests
+tqdm
+IPython
+
+# Resolved Conflicts
+tensorflow==2.19.0
+keras==3.5.0
+ml-dtypes>=0.5.1  # Adjusted for TensorFlow compatibility
+
+protobuf==3.20.3
+
+tensorboard~=2.19.0
